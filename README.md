@@ -1,6 +1,13 @@
 # MDN-JavaScript-Dynamic-client-side-scripting
 https://www.w3schools.com/js/js_versions.asp#:~:text=The%20Original%20JavaScript%20ES1%20ES2,(2016%2C%202017%2C%202018)
 
+ES3	ECMAScript 3 (1999):
+	Regular expressions
+	Try/catch
+	Switch
+	Do-while
+
+
 JavaScript ES5:
 	"use strict"
 	String[number] access

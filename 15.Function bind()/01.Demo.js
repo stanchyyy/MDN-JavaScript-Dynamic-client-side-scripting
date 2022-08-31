@@ -7,9 +7,8 @@ const findx = {
 
 const unboundGetX = findx.getX;
 console.log(unboundGetX());
-let boundGetX;
-boundGetX.bind(findx);
 
+const boundGetX = unboundGetX.bind(findx);
 console.log(boundGetX());
 
 
