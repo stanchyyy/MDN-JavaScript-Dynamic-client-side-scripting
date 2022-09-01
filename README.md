@@ -60,3 +60,15 @@ Javascript ES6:
 	New Global Methods
 	Object entries
 	JavaScript Modules
+
+ECMAScript 2016:
+	JavaScript Exponentiation (**)
+	JavaScript Exponentiation assignment (**=)
+	JavaScript Array.prototype.includes
+
+ECMAScript 2017:
+	JavaScript String padding
+	JavaScript Object.entries
+	JavaScript Object.values
+	JavaScript async functions
+	JavaScript shared memory
