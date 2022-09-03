@@ -72,3 +72,16 @@ ECMAScript 2017:
 	JavaScript Object.values
 	JavaScript async functions
 	JavaScript shared memory
+
+ECMAScript 2018:
+	Asynchronous Iteration
+	Promise Finally
+	Object Rest Properties
+	New RegExp Features
+
+ECMAScript 2019:
+	String.trimStart()
+	String.trimEnd()
+	Array.flat()
+	Object.fromEntries
+	Optional catch binding

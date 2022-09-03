@@ -15,8 +15,6 @@ async function asyncCall(){
 asyncCall();
 
 
-let a =function myFunction() {
+function myFunction() {
     return Promise.resolve("Hello");
   }
-
-  console.log(a);
